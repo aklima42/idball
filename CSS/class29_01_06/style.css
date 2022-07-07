@@ -1,0 +1,28 @@
+/**{
+	text-align: center;
+	color: #070707;
+}
+*/
+h1,h2,h3{
+	text-align: left;
+	color: #110606;
+}
+
+.para{
+	font-size: 22px;
+	color: #FFFFFF;
+	background-color: #1910C8;
+	padding: 10px;
+}
+article.main {
+	background-color: #96C38B;
+	border: 2px solid black;
+}
+
+.center{
+	text-align: center;
+	color: #120F0F;
+}
+.large{
+	font-size: 60px;
+}
